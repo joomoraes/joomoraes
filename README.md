@@ -1,6 +1,6 @@
 ![](https://github.com/joomoraes/joomoraes/blob/main/net.png?raw=true)
 
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/joão-pedro-alves-de-moraes/)
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]((https://www.linkedin.com/in/joão-pedro-alves-de-moraes/)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joomoraes&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
