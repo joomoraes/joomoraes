@@ -1,12 +1,23 @@
 ![](https://github.com/joomoraes/joomoraes/blob/main/net.png?raw=true)
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joomoraes&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joomoraes&repo=github-readme-stats&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joomoraes&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=joomoraes&theme=radical)
+
+
+
+
+
+**Linkedin**
 <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-alves-de-moraes/" target="_blank">
   <img src="https://raw.githubusercontent.com/brunobertolini/brunobertolini/master/assets/linkedin.svg" width="21px"  alt=" LinkedIn" align="left" />
 </a>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joomoraes&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=joomoraes&theme=blue-green)
 
 **Minha Stack atual:**
 
@@ -26,8 +37,7 @@
 
 
 **O que desejo aprender:**
-<br/>
-<br/>
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/elixir/elixir.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/clojure/clojure.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
