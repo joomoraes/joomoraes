@@ -4,8 +4,6 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=es3n1n&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joomoraes&repo=github-readme-stats&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joomoraes&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
