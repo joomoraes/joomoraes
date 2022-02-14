@@ -1,20 +1,38 @@
-![](https://github.com/joomoraes/joomoraes/blob/main/net.png?raw=true)
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joomoraes&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### Hi there 👋
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=es3n1n&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+My name is João Pedro.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joomoraes&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+Welcome to my GitHub page.
+<br>
 
+- 🌱 I’m currently learning C#, React, ReactNative, Azure, Git, Figma and JavaScript.
+- 📫 How to reach me:
 
+## **My Social Networks**
 
+<p align="left">
+  <a href="vyrkshowe@gmail.com" alt="Gmail" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white">
+  </a> 
 
-**Linkedin**
-<a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-alves-de-moraes/" target="_blank">
-  <img src="https://raw.githubusercontent.com/brunobertolini/brunobertolini/master/assets/linkedin.svg" width="21px"  alt=" LinkedIn" align="left" />
-</a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-alves-de-moraes/" alt="Linkedin" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+  
+  <a href="https://mywhats.net/1409394" alt="WhatsApp" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
 
-**Minha Stack atual:**
+  <a href="https://www.instagram.com/joaopedrooalv/" alt="Instagram" target="blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  </p>
+
+<br>
+
+## **Linguagens e Ferramentas:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -29,14 +47,19 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<br>
+<br>
+
+## **GitHub Estatísticas**
 
 
-**O que desejo aprender:**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/elixir/elixir.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/clojure/clojure.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/golang/golang.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/nestjs/nestjs.png"></code>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joomoraes&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=es3n1n&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joomoraes&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/gleysiferreira">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleysiferreira&theme=gruvbox&hide_langs_below=1" alt="GLEYSI FERREIRA github stats"/>
+</a>
