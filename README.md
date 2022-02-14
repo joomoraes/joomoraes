@@ -60,6 +60,4 @@ Welcome to my GitHub page.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joomoraes&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/gleysiferreira">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleysiferreira&theme=gruvbox&hide_langs_below=1" alt="GLEYSI FERREIRA github stats"/>
-</a>
+
