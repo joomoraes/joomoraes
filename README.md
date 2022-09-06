@@ -6,7 +6,7 @@
 ### Hi there 👋
 
 My name is João Pedro.
-
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FF945E&lines=Back-end+Developer)](https://git.io/typing-svg)
 Welcome to my GitHub page.
 <br>
 
