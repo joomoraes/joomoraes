@@ -60,5 +60,6 @@ Welcome to my GitHub page.
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joomoraes&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joomoraes&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Snake animation](https://github.com/thaizacapelao/thaizacapelao/blob/output/github-contribution-grid-snake.svg)
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=db5030&height=120&section=footer"/>
